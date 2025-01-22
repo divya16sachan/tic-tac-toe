@@ -3,7 +3,7 @@
 A simple and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**.
 
 ## 🎮 Live Demo
-[Play Tic-Tac-Toe](https://divya16sachan.rf.gd/tic-tac-toe/)
+[Play Tic-Tac-Toe](https://divya16sachan.github.io/tic-tac-toe/)
 
 ## 📌 Features
 - Classic **3x3 Tic-Tac-Toe** gameplay.
@@ -39,4 +39,4 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 ---
 
 🔗 **GitHub Repository**: [Tic-Tac-Toe](https://github.com/divya16sachan/tic-tac-toe)  
-🎮 **Live Demo**: [Play Now](https://divya16sachan.rf.gd/tic-tac-toe/)
+🎮 **Live Demo**: [Play Now](https://divya16sachan.github.io/tic-tac-toe/)
